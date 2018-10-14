@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/romitsutariya/k501/issues"
   },
-  "homepage": "https://github.com/romitsutariya/k501#readme"
+  "homepage": "https://github.com/romitsutariya/k501#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.4"
+  }
 }
