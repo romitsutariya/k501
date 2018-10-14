@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "this app for recording our expence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romitsutariya/k501.git"
+  },
+  "keywords": [
+    "expence",
+    "money"
+  ],
+  "author": "Romit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romitsutariya/k501/issues"
+  },
+  "homepage": "https://github.com/romitsutariya/k501#readme"
+}
